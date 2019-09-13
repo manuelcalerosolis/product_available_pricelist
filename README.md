@@ -1,3 +1,5 @@
+# Odoo module for Product available price list by user
 
-# product_available_pricelist
+----
+
 Product Available Price Lists By Users

@@ -26,18 +26,8 @@ Este modulo permite limitar el acceso a las tarifas de percios por usuarios en O
 .. contents::
    :local:
 
-Configuration
+Configuración
 =============
-
-To configure this module, you need to:
-#. Edit or create new channels.
-#. Edit or create new categories.
-#. Edit or create new stages.
-#. Edit or create new teams.
-#. Edit or create new tags.
-
-Channels
-~~~~~~~~
 
 #. Ir a *Ajustes > Administrar permisos de acceso* para editar o añadir un nuevo usuario.
 #. En el apartado de multicompañias "Tarifas visibles".

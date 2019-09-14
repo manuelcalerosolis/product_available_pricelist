@@ -13,11 +13,8 @@ Product Available Price List
 .. |badge2| image:: https://img.shields.io/badge/licence-AGPL--3-blue.png
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
-.. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fhelpdesk-lightgray.png?logo=github
-    :target: https://github.com/OCA/helpdesk/tree/12.0/helpdesk_mgmt
-    :alt: OCA/helpdesk
 
-|badge1| |badge2| |badge3|   
+|badge1| |badge2|  
 
 Este modulo permite limitar el acceso a las tarifas de percios por usuarios en Odoo.
 

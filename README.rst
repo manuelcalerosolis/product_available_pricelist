@@ -35,9 +35,6 @@ Configuración
    :alt: Channels
    :width: 600 px
 
-Categories
-~~~~~~~~~~
-
 Credits
 =======
 

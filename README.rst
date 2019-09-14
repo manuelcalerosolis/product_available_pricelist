@@ -55,7 +55,7 @@ Channels
 #. Set the name for the channel.
 #. You can also Activate or Deactivate channels.
 
-.. figure:: https://raw.githubusercontent.com/OCA/helpdesk/12.0/helpdesk_mgmt/static/description/Channels.PNG
+.. figure:: https://github.com/manuelcalerosolis/product_available_pricelist/blob/master/static/description/user_config.png
    :alt: Channels
    :width: 600 px
 

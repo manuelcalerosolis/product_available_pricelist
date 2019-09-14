@@ -16,13 +16,10 @@ Product Available Price List
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fhelpdesk-lightgray.png?logo=github
     :target: https://github.com/OCA/helpdesk/tree/12.0/helpdesk_mgmt
     :alt: OCA/helpdesk
-.. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/helpdesk-12-0/helpdesk-12-0-helpdesk_mgmt
-    :alt: Translate me on Weblate
 
-|badge1| |badge2| |badge3| |badge4|  
+|badge1| |badge2| |badge3|   
 
-This module adds Helpdesk functionality in Odoo.
+Este modulo permite limitar el acceso a las tarifas de percios por usuarios en Odoo.
 
 .. IMPORTANT::
    This is an alpha version, the data model and design can change at any time without warning.

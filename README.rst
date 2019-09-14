@@ -35,23 +35,23 @@ Configuración
    :alt: Channels
    :width: 600 px
 
-Credits
-=======
+Creditos
+========
 
-Authors
+Autores
 ~~~~~~~
 
 * Xtendoo
 
-Contributors
-~~~~~~~~~~~~
+Contribuidores
+~~~~~~~~~~~~~~
 
 * `Xtendoo <https://www.xtendoo.es>`_:
 
   * Manuel Calero Solís
 
-Maintainers
-~~~~~~~~~~~
+Mantenedores
+~~~~~~~~~~~~
 
-This module is maintained by the Xtendoo.
+Este módulo es mantenido por Xtendoo.
 

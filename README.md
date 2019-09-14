@@ -1,5 +1,5 @@
-# Odoo module for Product available price list by user
+# Módulo de Odoo para mostar tarifas de precios por usuarios
 
 ----
 
-Product Available Price Lists By Users
+Mostar tarifas de precios por usuarios

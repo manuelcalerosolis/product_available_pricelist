@@ -65,11 +65,7 @@ Credits
 Authors
 ~~~~~~~
 
-* AdaptiveCity
-* C2i Change 2 Improve
-* Domatix
-* Factor Libre
-* SDi Soluciones
+* Xtendoo
 
 Contributors
 ~~~~~~~~~~~~
